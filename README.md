@@ -1,1 +1,1 @@
-[詳細はポートフォリオサイトにて記事を公開](https://portfolio-4ng.pages.dev/blog/2025-10-8-publish-school-work/)しています。
+[詳細はポートフォリオサイトにて記事を公開](https://portfolio-4ng.pages.dev/blog/2025-10-8-publish-school-work/#redux-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA)しています。
